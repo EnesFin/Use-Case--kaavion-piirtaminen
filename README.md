@@ -1,26 +1,6 @@
 
 # Use Case -kaavion piirtäminen
 
------------------------------
-|         Äänestys          |
------------------------------
-|                           |
-| + Selaile äänestyksiä     |
-| + Katso äänestystilanne   |
-| + Äänestä äänestyksessä   |
-| + Luo uusi äänestys       |
-| + Poista äänestys         |
-|                           |
------------------------------
-        ^            ^
-        |            |
-----------------    ----------------
-| Tavallinen   |    |  Ylläpitäjä  |
-| Käyttäjä     |    |              |
-----------------    ----------------
-
-
-
 ![UML kaavio](1.png)
 
 Yleinen opetusmateriaali JavaScript-peruskurssille aloittelijoille. Voit myös aktiivisesti käyttää sitä verkkosivuston https://uml.enes.fi kautta.
